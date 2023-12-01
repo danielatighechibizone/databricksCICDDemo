@@ -9,3 +9,5 @@ def generate_data2(table_name="my_data"):
 # COMMAND ----------
 
 # just add code....
+
+print("hello world")
